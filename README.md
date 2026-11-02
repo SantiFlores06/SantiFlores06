@@ -7,7 +7,7 @@ I'm building my career in **cybersecurity and DevSecOps**: designing and shippin
 - 🔐 **Now:** taking a real FastAPI app from code to cloud, securely → [securecloud](https://github.com/SantiFlores06/securecloud)
 - 💼 **Experience:** internship at **Eclypsium** — built a Python cyclomatic-complexity analyzer that runs in CI/CD pipelines
 - 🎯 **Long-term goal:** security architecture and leadership
-- 📄 **CV:** [read it online](https://github.com/SantiFlores06/SantiFlores06/blob/main/CV.md) · [download PDF](https://github.com/SantiFlores06/SantiFlores06/raw/main/CV.pdf)
+- 📄 **CV:** [Download my CV (PDF)](https://github.com/SantiFlores06/SantiFlores06/raw/main/CV%20Santiago%20Flores.pdf)
 
 ---
 
