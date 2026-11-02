@@ -1,6 +1,6 @@
 # Hi, I'm Santiago Flores 👋
 
-**Informatics Engineer** (Universidad Blas Pascal, 2026) · Córdoba, Argentina
+**IT Engineer** (Ingeniería en Informática · Universidad Blas Pascal, 2026) · Córdoba, Argentina
 
 I'm building my career in **cybersecurity and DevSecOps**: designing and shipping software with security built in — from the API, to the CI/CD pipeline, to the cloud. I come from **Python backend development** (FastAPI, pytest, CI/CD), and in my free time I tinker with **robotics**.
 
