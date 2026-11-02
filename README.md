@@ -52,6 +52,13 @@ Robotics is what I do for fun: control, telemetry and autonomy. Next up: hands-o
 - **Security:** OWASP Top 10 · networking and operating systems fundamentals
 - **Spoken:** Spanish (native) · English (upper-intermediate)
 
+## 🕒 Latest activity
+
+*Updated automatically every day from my public repositories.*
+
+<!-- AUTO-REPOS:START -->
+<!-- AUTO-REPOS:END -->
+
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/santiago-javier-flores) · santiagoflores028@gmail.com
