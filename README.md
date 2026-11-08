@@ -59,12 +59,12 @@ Robotics is what I do for fun: control, telemetry and autonomy. Next up: hands-o
 <!-- AUTO-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
+| [secops-explorer](https://github.com/SantiFlores06/secops-explorer) | — | — | 2026-11-08 |
 | [coopsur-ciberdefensa](https://github.com/SantiFlores06/coopsur-ciberdefensa) | Análisis de Seguridad y GCR de Cooperativa Ficticia | — | 2026-11-02 |
 | [Monitor-de-salud-de-Servidores](https://github.com/SantiFlores06/Monitor-de-salud-de-Servidores) | — | Python | 2026-11-02 |
 | [securecloud](https://github.com/SantiFlores06/securecloud) | — | Python | 2026-11-02 |
 | [FinalPEF](https://github.com/SantiFlores06/FinalPEF) | — | Python | 2026-10-01 |
 | [tdd-pipeline](https://github.com/SantiFlores06/tdd-pipeline) | — | — | 2026-08-29 |
-| [argos-mission-software](https://github.com/SantiFlores06/argos-mission-software) | Autonomous mission execution software layer for UAVs. Runs on a companion computer between PX4 and GCS. Built with ROS2 C++17. | C++ | 2026-05-29 |
 <!-- AUTO-REPOS:END -->
 
 ## 📫 Contact
