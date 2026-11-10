@@ -59,7 +59,7 @@ Robotics is what I do for fun: control, telemetry and autonomy. Next up: hands-o
 <!-- AUTO-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [secops-explorer](https://github.com/SantiFlores06/secops-explorer) | — | TypeScript | 2026-11-08 |
+| [secops-explorer](https://github.com/SantiFlores06/secops-explorer) | — | TypeScript | 2026-11-09 |
 | [coopsur-ciberdefensa](https://github.com/SantiFlores06/coopsur-ciberdefensa) | Análisis de Seguridad y GCR de Cooperativa Ficticia | — | 2026-11-02 |
 | [Monitor-de-salud-de-Servidores](https://github.com/SantiFlores06/Monitor-de-salud-de-Servidores) | — | Python | 2026-11-02 |
 | [securecloud](https://github.com/SantiFlores06/securecloud) | — | Python | 2026-11-02 |
